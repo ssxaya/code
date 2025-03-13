@@ -4,5 +4,5 @@
 /**
  * 
  */
-module learn {
+module LEARN {
 }
